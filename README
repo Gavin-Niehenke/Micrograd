@@ -1,0 +1,1 @@
+Currently in progress building backpropation in a neural network to understand better the logic behind how networks learn. The goal of this project is to build a small autograd engine using a gradient system flowing through the neurons.
